@@ -1,6 +1,6 @@
 {
-  "name": "airbnb-style",
-  "version": "2.0.0",
+  "name": "pixel-style",
+  "version": "0.0.1",
   "description": "A mostly reasonable approach to JavaScript.",
   "scripts": {
     "preinstall": "npm run install:config && npm run install:config:base",
@@ -15,21 +15,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/airbnb/javascript.git"
+    "url": "https://github.com/pixelmatters/pixel-js-eslint.git"
   },
   "keywords": [
     "style guide",
     "lint",
     "airbnb",
+    "pixelmatters",
     "es6",
     "es2015",
     "react",
     "jsx"
   ],
-  "author": "Harrison Shoff <hi@hshoff.com> (https://twitter.com/hshoff)",
+  "author": "Pixelmatters",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/airbnb/javascript/issues"
+    "url": "https://github.com/pixelmatters/pixel-js-eslint/issues"
   },
-  "homepage": "https://github.com/airbnb/javascript"
+  "homepage": "https://github.com/pixelmatters/pixel-js-eslint"
 }
