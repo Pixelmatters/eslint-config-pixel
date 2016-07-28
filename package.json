@@ -1,5 +1,5 @@
 {
-  "name": "pixel-js-eslint",
+  "name": "eslint-config-pixel",
   "version": "0.0.1",
   "description": "Pixelmatters's base JS ESLint config, following Airbnb styleguide",
   "main": "index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Pixelmatters/pixel-js-eslint"
+    "url": "https://github.com/Pixelmatters/eslint-config-pixel"
   },
   "keywords": [
     "eslint",
@@ -26,9 +26,9 @@
   "author": "Pixelmatters",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Pixelmatters/pixel-js-eslint/issues"
+    "url": "https://github.com/Pixelmatters/eslint-config-pixel/issues"
   },
-  "homepage": "https://github.com/Pixelmatters/pixel-js-eslint",
+  "homepage": "https://github.com/Pixelmatters/eslint-config-pixel",
   "devDependencies": {
     "babel-preset-airbnb": "^2.0.0",
     "babel-tape-runner": "^2.0.1",
