@@ -15,7 +15,7 @@ Add `"extends": "pixel"` to your .eslintrc
 or
   ```json
   {
-  "extends": "pixel",
+    "extends": "pixel"
   }
   ```
   to .eslintrc.json
@@ -25,3 +25,10 @@ or
 Lints ES5 and below. Requires `eslint` and `eslint-plugin-import`.
 
 Add `"extends": "pixel/legacy"` to your .eslintrc
+or
+  ```json
+  {
+    "extends": "pixel/legacy"
+  }
+  ```
+
